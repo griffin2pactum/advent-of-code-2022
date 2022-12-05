@@ -2,4 +2,5 @@
 
 
 cd [dayx]
+
 ts-node [x.ts]
